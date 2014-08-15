@@ -13,6 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "serialport": "^1.4.5",
-    "winston": "^0.7.3"
+    "winston": "^0.7.3",
+    "lodash": "^2.4.1"
   }
 }

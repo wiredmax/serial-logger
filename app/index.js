@@ -1,4 +1,5 @@
 // Exports
 module.exports = {
-  listPorts: require('./listPorts')
+  listPorts: require('./listPorts'),
+  logSerial: require('./logSerial')
 };
